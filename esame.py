@@ -48,7 +48,7 @@ class Diff(object):
 
         return lista_finale
 
-''''
+'''
 diff = Diff()
 prova = input("Input della Diff: ")
 result = diff.compute(lista_prova2)
